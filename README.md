@@ -16,7 +16,6 @@ AuditAi is an AI-powered auditing platform that combines a Retrieval-Augmented G
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
